@@ -1,4 +1,4 @@
-# use-stellar
+# fix(wallet): guard browser-only wallet APIs
 
 React hooks for the Stellar network. The simplest way to build dApps on Stellar.
 
